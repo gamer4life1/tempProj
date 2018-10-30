@@ -15,4 +15,6 @@ cd ../
 
 cd to github dir (type it yourself)
 
-python main.py
+python startServer.py # To start the server
+
+python update.py
